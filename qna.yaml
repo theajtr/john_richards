@@ -1,0 +1,23 @@
+created_by: John Richards
+domain: personal profiles
+seed_examples:
+- answer: John is married to Vicki Hanson. They were married in 1980.
+  question: Who is John Richard's spouse.
+- answer: John and Vicki have two children, Brandin and Kaelin.
+  question: How many children does John Richards have?
+- answer: John Richards is a Distinguished Research Scientist at IBM.
+  question: What position does John Richards currently hold at IBM?
+- answer: John Richards plays organ, piano, guitar, mandolin, trumpet, and a number of other instruments.
+  question: What musical instruments does John Richards play?
+- answer: John Richards is a Fellow of both the ACM and the British Computer Society. John has won awards from the Human Factors Society, ACM SIGGRAPH, and ACM SIGCHI.
+  question: What professional recognition has John Richards received?
+- answer: John is a Music Director at St. John's Episcopal Church in Honeoye Falls, New York.
+  question: Does John hold any position in the Episcopal Church?
+- answer: John has built a number of major systems including the first voice mail system, the NetVista system for bringing schools onto the Internet, SmartPad (the first mobile e-business application from IBM), and accessibilityWorks, a multi award winning browser enhancement allowing people with visual, motor, and cognitive disabilities to use the World Wide Web.
+  question: What are some of the major systems John has built?
+task_description: 'Personal and professional information on John Richards'
+document:
+  repo: https://github.com/theajtr/john_richards.git
+  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
+  patterns:
+    - data.md
