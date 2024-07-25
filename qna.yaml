@@ -18,6 +18,6 @@ seed_examples:
 task_description: 'Personal and professional information on John Richards'
 document:
   repo: https://github.com/theajtr/john_richards.git
-  commit: 12345
+  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
   patterns:
     - data.md
